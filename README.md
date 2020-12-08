@@ -1,2 +1,9 @@
 # hello-world
-Just another repository
+
+ Hi all!
+
+ This is my first Github Respository Test! 
+ Greetings & hello world!
+
+ Much Love,
+ Shannon
